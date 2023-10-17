@@ -10,4 +10,4 @@ Endre på nettsiden slik at
 
 4) "Gjør bildet mindre" og "Gjør bildet større" knappene slik at de gjør det motsatte av det som står
 
-5) Det er en ny knapp som setter "fontSize" attributtet til overskriften ("<h1>" elementet) til 80px
+5) Det er en ny knapp som setter "fontSize" attributtet til overskriften (`<h1>` elementet) til 80px
